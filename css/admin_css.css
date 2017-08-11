@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+
+.kktt-head-h3 {
+	margin: 0;
+	padding: 10px 0px;
+	cursor: default !important;
+}
+
+.kktt-head-h3 span {
+	margin: 0px 10px;
+	font-size: 12px;
+	cursor: default;
+}
+
+.kktt-div-wew {
+	margin: 15px;
+}
+
+.kktt-div-wew-kol {
+	margin: 10px;
+	margin-bottom: 15px;
+}
+
+.kktt-small-text {
+	font-size: 11px;
+}
+
+.kktt-ok {
+	border: 1px #1e7700 solid;
+	background: #eaffe1;
+}
+
+.kktt-error {
+	border: 1px #9f1000 solid;
+	background: #ffe4e1;
+}
+
+.kktt-alert-wew {
+	padding: 15px;
+}
+
+#kktt-bar-settings {
+	margin: 10px 0px;
+}
+
+#kktt-bar-settings fieldset {
+	border: 1px #ccc dashed;
+	padding: 15px;
+}
+
+#kktt-bar-settings fieldset legend {
+	padding: 0px 15px;
+}
+
+.kktt-label {
+	display: inline-table;
+	width: 150px;
+}
